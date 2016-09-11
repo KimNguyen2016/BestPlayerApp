@@ -13,6 +13,8 @@
 		7D41B5A81D85835F009D1F9B /* PlayerScore_App.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 7D41B5A61D85835F009D1F9B /* PlayerScore_App.xcdatamodeld */; };
 		7D41B5AA1D85835F009D1F9B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7D41B5A91D85835F009D1F9B /* Assets.xcassets */; };
 		7D41B5AD1D85835F009D1F9B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7D41B5AB1D85835F009D1F9B /* LaunchScreen.storyboard */; };
+		7D41B5B51D85A781009D1F9B /* cirle1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7D41B5B41D85A781009D1F9B /* cirle1.jpg */; };
+		7D41B5B71D85A81D009D1F9B /* cirle2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7D41B5B61D85A81D009D1F9B /* cirle2.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		7D41B5A91D85835F009D1F9B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7D41B5AC1D85835F009D1F9B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7D41B5AE1D85835F009D1F9B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7D41B5B41D85A781009D1F9B /* cirle1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cirle1.jpg; sourceTree = "<group>"; };
+		7D41B5B61D85A81D009D1F9B /* cirle2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cirle2.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				7D41B59F1D85835F009D1F9B /* AppDelegate.swift */,
 				7D41B5A11D85835F009D1F9B /* ViewController.swift */,
 				7D41B5A31D85835F009D1F9B /* Main.storyboard */,
+				7D41B5B61D85A81D009D1F9B /* cirle2.jpg */,
+				7D41B5B41D85A781009D1F9B /* cirle1.jpg */,
 				7D41B5A91D85835F009D1F9B /* Assets.xcassets */,
 				7D41B5AB1D85835F009D1F9B /* LaunchScreen.storyboard */,
 				7D41B5AE1D85835F009D1F9B /* Info.plist */,
@@ -126,6 +132,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				7D41B5AD1D85835F009D1F9B /* LaunchScreen.storyboard in Resources */,
+				7D41B5B51D85A781009D1F9B /* cirle1.jpg in Resources */,
+				7D41B5B71D85A81D009D1F9B /* cirle2.jpg in Resources */,
 				7D41B5AA1D85835F009D1F9B /* Assets.xcassets in Resources */,
 				7D41B5A51D85835F009D1F9B /* Main.storyboard in Resources */,
 			);
