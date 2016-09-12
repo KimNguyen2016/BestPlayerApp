@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  PlayerScore App
 //
-//  Created by Franklin on 2016-09-11.
+//  Created by Kim Nguyen on 2016-09-11.
 //  Copyright © 2016 Kim Nguyen. All rights reserved.
 //
 
